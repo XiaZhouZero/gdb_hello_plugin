@@ -1,4 +1,4 @@
-# extend_gdb_with_python
+# gdb_hello_plugin
 Extend GDB with python-support
 
 ## Environment
